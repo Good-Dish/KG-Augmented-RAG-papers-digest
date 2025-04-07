@@ -1,6 +1,6 @@
 # 🧠 KG-Augmented-RAG-papers-digest
 
----
+
 
 > 💎***Knowledge Meets Retrieval Augmented Generation***: 
 >
@@ -12,13 +12,14 @@
 > - Simplifying the motivations and ideas of papers that analyze how KG empowers RAG systems with accuracy, interpretability, and efficiency.
 > - Building up the system of research ideas from different angles.
 
----
+
 
 ## 📚 Contents
+
 - [File Structure](#-file-strcture)
 - [Overview](#-overview)
 
----
+
 
 ## 🗂 **File structure**
 
@@ -33,7 +34,7 @@ KG-Augmented-RAG-papers-digest
 └─ README.md
 ```
 
----
+
 
 ## ✅ Overview
 
