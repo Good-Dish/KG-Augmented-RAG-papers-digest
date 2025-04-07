@@ -1,4 +1,4 @@
-# 🧠 KG-Augmented-RAG-papers-digest(Updating...)
+# 🧠 KG-Augmented-RAG-papers-digest
 
 
 
