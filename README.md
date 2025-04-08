@@ -16,7 +16,7 @@
 
 ## 📚 Contents
 
-- [File Structure](#-file-strcture)
+- [File Structure](#-file-structure)
 - [Overview](#-overview)
 
 
