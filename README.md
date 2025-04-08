@@ -1,6 +1,6 @@
 # 🧠 KG-Augmented-RAG-papers-digest
 
-
+![Static Badge](https://img.shields.io/badge/updating-red)
 
 > 💎***Knowledge Meets Retrieval Augmented Generation***: 
 >
