@@ -23,7 +23,7 @@
 
 ## 🗂 **File structure**
 
-```python
+```plaintext
 KG-Augmented-RAG-papers-digest
 ├─ Demo_Code
 │	└─ paper_name.ipynb
