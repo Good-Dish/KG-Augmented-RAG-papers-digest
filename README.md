@@ -26,11 +26,13 @@
 ```plaintext
 KG-Augmented-RAG-papers-digest
 ├─ Demo_Code
-│	└─ paper_name.ipynb
-│	└─ ······
+│	 └─ paper_name.ipynb
+│	 └─ ······
 ├─ Digest
-│	└─ paper_name.md
-│	└─ ······
+│  └─ paper_name
+│     ├─ CH.md
+│     └─ ENG.md
+│  └─ ······
 └─ README.md
 ```
 
