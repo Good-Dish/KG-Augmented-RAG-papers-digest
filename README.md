@@ -25,8 +25,8 @@
 
 ```plaintext
 KG-Augmented-RAG-papers-digest
-├─ Demo_Code
-│  └─ paper_name.ipynb
+├─ Pseudocode
+│  └─ paper_name.md
 │  └─ ······
 ├─ Digest
 │  └─ paper_name
